@@ -1,0 +1,62 @@
+[
+    {
+      "question": "Quais são as datas de inscrição para o Vestibular Unicamp 2025?",
+      "response": "As inscrições para o Vestibular Unicamp 2025 começam em [data de início] e terminam em [data de término], conforme a Resolução GR-029/2024.",
+      "category": "Datas Importantes"
+    },
+    {
+      "question": "Quais documentos são necessários para se inscrever no Vestibular Unicamp 2025?",
+      "response": "Para se inscrever no Vestibular Unicamp 2025, você precisará dos seguintes documentos: [lista de documentos].",
+      "category": "Requisitos e Elegibilidade"
+    },
+    {
+      "question": "Quais são as disciplinas cobradas nas provas do Vestibular Unicamp 2025?",
+      "response": "As disciplinas cobradas nas provas do Vestibular Unicamp 2025 incluem: [lista de disciplinas], de acordo com o [artigo] artigo da Resolução GR-029/2024.",
+      "category": "Estrutura e Conteúdo das Provas"
+    },
+    {
+      "question": "Quantas vagas estão disponíveis para o curso de Medicina?",
+      "response": "Para o curso de Medicina, estão disponíveis [número de vagas] vagas.",
+      "category": "Cursos e Vagas"
+    },
+    {
+      "question": "Quais são os procedimentos para inscrição no Vestibular Unicamp 2025?",
+      "response": "Os procedimentos para inscrição no Vestibular Unicamp 2025 incluem: [descrição dos procedimentos].",
+      "category": "Procedimentos e Normas"
+    }, 
+    {
+      "question": "Quais são os critérios para a correção das provas?",
+      "response": "Os critérios de correção das provas do Vestibular Unicamp 2025 incluem a pontuação obtida nas questões objetivas e a avaliação da redação conforme critérios pré-estabelecidos.",
+      "category": "Estrutura e Conteúdo das Provas"
+    }, 
+    {
+      "question": "Como posso acessar o resultado do Vestibular Unicamp 2025?",
+      "response": "O resultado do Vestibular Unicamp 2025 será divulgado no site da Comvest no dia [data da divulgação].",
+      "category": "Procedimentos e Normas"
+    }, 
+    {
+      "question": "Como é o formato das provas do Vestibular Unicamp 2025?",
+      "response": "As provas do Vestibular Unicamp 2025 são compostas de questões objetivas e uma redação, abordando diversas disciplinas do ensino médio.",
+      "category": "Estrutura e Conteúdo das Provas"
+    }, 
+    {
+      "question": "Quando serão realizadas as provas do Vestibular Unicamp 2025?",
+      "response": "As provas Vestibular Unicamp 2025 serão nos dias [datas das provas], para certos cursos haverão provas práticas também nos dias [data das provas práticas]",
+      "category": "Estrutura e Conteúdo das Provas"
+    }, 
+    {
+      "question": "Quantos Vestibulares são realizados por ano?",
+      "response": "São realizados [quantidade] vestibulares a cada ano.",
+      "category": "Procedimentos e Normas"
+    }, 
+    {
+      "question": "Qual a taxa de inscrição do Vestibular?",
+      "response": "A taxa de inscrição para o Vestibular Unicamp 2025 será de [valor da taxa], de acordo com a Resolução GR-029/2024.",
+      "category": "Procedimentos e Normas"
+    }, 
+    {
+      "question": "Quem tem direito à isenção da taxa de inscrição para o Vestibular e para o Enem?",
+      "response": "Aqueles com direito a isenção da taxa devem cumprir certos requisitos: [requisitos].",
+      "category": "Requisitos e Elegibilidade"
+    }
+]
